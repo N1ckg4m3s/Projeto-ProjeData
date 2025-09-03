@@ -32,6 +32,8 @@ public class ProjetoProjedata {
         
         RealizarTeste.Acao8_PrinarPorAniversario();
         
+        RealizarTeste.Acao9_PrintarPorIdade();
+        
         RealizarTeste.Acao10_PrintarPorOrdemAlfabetica();
         
         RealizarTeste.Acao11_SomaDosSalarios();
